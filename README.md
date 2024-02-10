@@ -13,4 +13,4 @@ Imphal, Manipur
 Sandeep Saini
 Indian Institute of Information Technology, Senapati, Manipur
 Imphal, Manipur
-![image](https://github.com/DarkWebIIITians/HACKMOL-5.0/assets/155981228/e1a3a4a2-6836-47bc-a52d-5b327d99d7fb)
+
