@@ -1,0 +1,32 @@
+# Ignore compiled files for Java and C++
+*.class
+*.jar
+*.war
+*.ear
+*.exe
+*.out
+*.o
+
+# Ignore generated files and directories for JavaScript
+node_modules/
+dist/
+.cache/
+*.log
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore compiled files for C++
+build/
+bin/
+*.dll
+*.so
+*.dylib
+
+# Ignore temporary files
+*.swp
+*~
