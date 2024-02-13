@@ -11,3 +11,5 @@
 * Engagement and Motivation: To foster user engagement and motivation, our tool incorporates gamification elements such as challenges, achievements, and progress tracking features. Users can compete with friends, earn rewards, and share their progress on social media, creating a sense of community and accountability around environmental stewardship.
 * Continuous Improvement: We are committed to continuously improving our tool based on user feedback, usage data, and emerging trends in carbon footprint tracking and reduction practices. By regularly updating and iterating on the tool, we ensure its effectiveness, accuracy, and relevance in helping users make positive environmental changes.
 
+# NOTE:
+The project is under development
